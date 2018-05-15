@@ -1,0 +1,8 @@
+Book
+b1 a1
+Magazine
+m1 m1a1 m1a2 m1a3
+Book
+b2 a2
+Magazine
+m2 m2a1 m2a2 m2a3

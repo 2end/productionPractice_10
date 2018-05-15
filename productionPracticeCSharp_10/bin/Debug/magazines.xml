@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfMagazine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Magazine>
+    <Name>m1</Name>
+    <Articles>
+      <string>m1a1</string>
+      <string>m1a2</string>
+      <string>m1a3</string>
+    </Articles>
+  </Magazine>
+  <Magazine>
+    <Name>m2</Name>
+    <Articles>
+      <string>m2a1</string>
+      <string>m2a2</string>
+      <string>m2a3</string>
+    </Articles>
+  </Magazine>
+</ArrayOfMagazine>
